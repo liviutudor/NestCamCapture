@@ -1,3 +1,5 @@
 {
-	"outputDir" : "output"
+	"outputDir" : "/Users/ltudor/Projects/git/NestCamCapture/output",
+	"username" : "your_username",
+	"password" : "your_password"
 }
