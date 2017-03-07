@@ -1,5 +1,6 @@
 {
 	"outputDir" : "/Users/ltudor/Projects/git/NestCamCapture/output",
 	"username" : "your_username",
-	"password" : "your_password"
+	"password" : "your_password",
+	"cameraId" : "your camera id e.g. 4x42311-2342fwf2r23r-sfwfwfewr"
 }
