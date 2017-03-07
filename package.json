@@ -1,0 +1,21 @@
+{
+  "name": "nest-cam-capture",
+  "version": "0.0.1",
+  "description": "Tries to interact with a web browser which displays the nest cam and capture images from it",
+  "keywords": ["nest", "cam", "camera", "dropcam"],
+  "homepage": "https://github.com/liviutudor/NestCamCapture",
+  "main": "nest.js",
+  "dependencies": {
+    "request": "^2.71.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:liviutudor/NestCamCapture.git"
+  },
+  "license": "Apache-2.0",
+  "author": {
+    "name": "Liviu Tudor",
+    "email": "me@liviutudor.com",
+    "url": "http://liviutudor.com"
+  }
+}
